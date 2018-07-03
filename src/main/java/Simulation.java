@@ -1,10 +1,4 @@
-import com.github.rjeschke.txtmark.Run;
 import processing.core.PConstants;
-import processing.core.PVector;
-import sun.plugin2.util.SystemUtil;
-
-import java.util.ArrayList;
-
 /**
  * Created by Aleksander on 12:50, 02/07/2018.
  */

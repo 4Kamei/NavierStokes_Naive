@@ -9,8 +9,6 @@ public class Main extends PApplet {
 
     private boolean up = false, render = true;
 
-    private float minP, maxP;
-
     public static void main(String[] args) {
         PApplet.main("Main");
     }
